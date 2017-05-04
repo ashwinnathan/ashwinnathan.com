@@ -1,1 +1,3 @@
-Portfolio Website to learn more about me! Customization coming soon!
+#Portfolio Website 
+
+See some of my projects and learn more about me! Customization coming soon!
